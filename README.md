@@ -44,8 +44,6 @@ Aqui vais encontrar materiais didáticos, práticos e acessíveis para aprender 
 ## 📢 Notas Importantes
 
 - Estes materiais foram desenvolvidos para fins educativos e formativos.
-- Podem ser usados livremente em cursos, workshops e formações internas, desde que respeitada a sua autoria.
-- Não é feita qualquer referência direta a autores ou obras protegidas por copyright.
 
 ---
 
