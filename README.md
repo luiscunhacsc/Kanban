@@ -11,9 +11,6 @@ Aqui vais encontrar materiais didáticos, práticos e acessíveis para aprender 
 - **Sumário sobre Kanban** (formato `.docx` e `.pdf`)  
   Um resumo conciso que consolida os principais conceitos para estudo rápido ou revisão.
 
-- **Imagem de Capa**  
-  Representação visual das 8 partes do tutorial para utilização em apresentações, formações ou divulgação.
-
 ## 🎯 O que vais aprender
 
 - O que é Kanban e como aplicá-lo no dia a dia
