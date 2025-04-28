@@ -47,10 +47,6 @@ Aqui vais encontrar materiais didáticos, práticos e acessíveis para aprender 
 - Podem ser usados livremente em cursos, workshops e formações internas, desde que respeitada a sua autoria.
 - Não é feita qualquer referência direta a autores ou obras protegidas por copyright.
 
-## 🎨 Visual do Projeto
-
-> ![Tutorial Kanban](./A_flat_design_infographic_illustrates_an_eight-ste.png)
-
 ---
 
 **Sente-te à vontade para clonar, usar e partilhar!** 🚀  
